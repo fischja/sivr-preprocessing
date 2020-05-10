@@ -228,5 +228,6 @@ $RECYCLE.BIN/
 *.iml
 *.weights
 *.cfg
+*.names
 
 # End of https://www.gitignore.io/api/python,pycharm,windows
